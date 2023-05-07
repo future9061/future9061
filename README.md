@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p>안녕하세요. 개발 공부중인 이미래입니다.😆</p>
 
-💪Skill
+💪Skills
 
 <div style="display:flex">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
