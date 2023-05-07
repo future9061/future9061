@@ -1,4 +1,4 @@
-### '오늘'은 흘러가는 것이 아니라 채워가는 것. 반갑습니다👋
+### '오늘'은 흘러가는 것이 아니라 채워가는 것.✨
 
 <!--
 **future9061/future9061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
