@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 💪Skill
 
-<img src="https://img.shields.io/badge/javascript-3DDC84?style=flat-square&logo=javascript&logoColor=white&labelColor=gray"/>
+<img src="https://img.shields.io/badge/javascript-3DDC84?style=flat-square&logo=javascript&logoColor=white&backgroundColor=gray"/>
 
 
 
