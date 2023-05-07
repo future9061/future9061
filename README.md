@@ -1,5 +1,5 @@
 ### '오늘'은 흘러가는 것이 아니라 채워가는 것.✨
-
+<p>안녕하세요. 개발 공부중인 이미래입니다.😆</p>
 <!--
 **future9061/future9061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-
+<br />
+<br />
 💪Skill
 
 <div style="display:flex">
