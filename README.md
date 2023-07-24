@@ -35,12 +35,15 @@
 
 <h3 align="center"> 📊Github Stats📊 </h3>
 
-<div style=display:flex;justify-content: center; align-items: center; height: 300px;>
+
+<div style=display:flex ;>
+
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=future9061&layout=donut-vertical&show_icons=true&theme=radical&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=40% />
-
 <img src="https://github-readme-stats.vercel.app/api?username=future9061&hide=stars,prs,issues,contribss&layout=donut-vertical&theme=radical&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=40%>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=future9061&layout=donut-vertical&show_icons=true&theme=radical&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=30% />
 
-<img srv="https://gist.github.com/future9061/9842e074b8ee46aef76fd0d493bae0ed">
+
+
+
 </div>
-
