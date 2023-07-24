@@ -2,13 +2,13 @@
 
 
   
-<h3 align="center"> '오늘'은 흘러가는 것이 아니라 채워가는 것.✨</h3>
+<h2 align="center"> '오늘'은 흘러가는 것이 아니라 채워가는 것.✨</h2>
 
-<h4 align="center"> 안녕하세요. FrontEnd_developer 이미래입니다.😀</h4>
+<h3 align="center"> 안녕하세요. FrontEnd_developer 이미래입니다.😀</h3>
 
 <br />
 
-<h5 align="center"> 📚Tach Stack📚 </h5>
+<h3 align="center"> 📚Tach Stack📚 </h3>
 
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -22,7 +22,7 @@
 
 <br />
 
-<h5 align="center";> 🔧Tools🔧</h5>
+<h3 align="center";> 🔧Tools🔧</h3>
 
 <div align="center">
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
@@ -33,7 +33,7 @@
 
 <br />
 
-<h5 align="center"> 📊Github Stats📊 </h5>
+<h3 align="center"> 📊Github Stats📊 </h3>
 
 <div style=display:flex;justify-content: center; align-items: center; height: 300px;>
   
