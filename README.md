@@ -35,24 +35,12 @@
 
 <h5 align="center"> 📊Github Stats📊 </h5>
 
-<div align="start"; display:"inline"> 
+<div style=display:flex; align-item:start>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=future9061&layout=donut-vertical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=future9061&layout=donut-vertical&show_icons=true&theme=radical&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=40% />
+
+<img src="https://github-readme-stats.vercel.app/api?username=future9061&hide=stars,prs,issues,contribss&layout=donut-vertical&theme=radical&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=40%>
+
+<img srv="https://gist.github.com/future9061/9842e074b8ee46aef76fd0d493bae0ed">
 </div>
-
-<div align="end"; display:"inline"> 
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=future9061&hide=stars,prs,issues,contribss&show_icons=true&theme=radical)
-</div>
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=devpla&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=48% />
-</a>
-<a href="https://github.com/devpla/github-stats">
- <img src="https://raw.githubusercontent.com/devpla/github-stats/output/generated/languages.svg" width=51% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=devpla&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
-</a>
 
