@@ -35,7 +35,7 @@
 
 <h5 align="center"> 📊Github Stats📊 </h5>
 
-<div style=display:flex; align-item:start>
+<div style=display:flex;justify-content: center; align-items: center; height: 300px;>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=future9061&layout=donut-vertical&show_icons=true&theme=radical&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=40% />
 
