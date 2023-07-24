@@ -1,10 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome😊&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome😊&fontSize=90)
 
-<div style="display:block; text-align:center;">
+<h3 align="center"> '오늘'은 흘러가는 것이 아니라 채워가는 것.✨</h3>
 
-### '오늘'은 흘러가는 것이 아니라 채워가는 것.✨
-
-**안녕하세요. Frontend-Developer 이미래입니다.😆**
+<h5 align="center"> 안녕하세요. FrontEnd_developer 이미래입니다.😀</h5>
 
 <br />
 
