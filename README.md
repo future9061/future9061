@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20there,%20I'm%20Mirae🤚&fontSize=50&animation=twinkling&desc=Welcome%20to%20My%20World&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20there,%20I'm%20Mirae🤚&fontSize=50&animation=twinkling&desc=Welcome%20to%20My%20World&fontAlignY=40&)
 
 
   
@@ -29,21 +29,17 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </div>
 
-</div>
+
 
 <br />
 
 <h3 align="center"> 📊Github Stats📊 </h3>
 
-
-<div style=display:flex ;>
-
-  
-<img src="https://github-readme-stats.vercel.app/api?username=future9061&hide=stars,prs,issues,contribss&layout=donut-vertical&theme=radical&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=40%>
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=future9061&layout=donut-vertical&show_icons=true&theme=radical&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=30% />
-
-
-
-
+<div  align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=future9061&show_icons=true&hide=stars,prs,issues,contribs">
 </div>
+
+<div  align="center">
+<img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=future9061&layout=donut-vertical">
+</div>
+
