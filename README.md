@@ -25,7 +25,7 @@
 <h3 align="center"> 📄Stydy Now📄 </h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript css&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript css&logoColor=white"/>
 </div>
 
 <br />
