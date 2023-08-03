@@ -22,7 +22,7 @@
 
 <br />
 
-<h3 align="center"> 📄Stydy Now📄 </h3>
+<h3 align="center"> 📄Study Now📄 </h3>
 
 <div align="center">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
