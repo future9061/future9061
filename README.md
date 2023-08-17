@@ -18,6 +18,8 @@
 <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/FireBase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=Tailwind css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 </div>
 
 <br />
