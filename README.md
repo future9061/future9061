@@ -49,7 +49,7 @@
 <h3 align="center"> 📊Github Stats📊 </h3>
 
 <div  align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=future9061&show_icons=true&hide=stars,prs,issues,contribs">
+<img src="https://github-readme-stats.vercel.app/api?username=future9061&show_icons=true&hide=stars,contribs">
 </div>
 
 <div  align="center">
