@@ -33,8 +33,9 @@
   
 </div>
 
-<br / >
-<h3 align="center";> 🔧Tools🔧</h3>
+<br />
+
+<h3 align="center";> Tools</h3>
 
 <div align="center">
 <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
