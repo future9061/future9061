@@ -4,8 +4,6 @@
   
 <h3 align="center"> '오늘'은 흘러가는 것이 아니라 채워가는 것.✨</h3>
 
-<h4 align="center"> 안녕하세요. FrontEnd_developer 이미래입니다.😀</h4>
-
 <br />
 
 
